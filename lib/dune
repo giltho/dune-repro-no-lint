@@ -1,0 +1,5 @@
+(library
+ (name repro_no_lint)
+ (lint
+  (action
+    (run copyright %{input-file} %{input-file}.lint-corrected))))

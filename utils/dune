@@ -1,0 +1,4 @@
+(executable
+ (name add_copyright)
+ (public_name copyright)
+ (package repro_no_lint))
