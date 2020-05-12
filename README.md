@@ -1,4 +1,4 @@
-## Reproduction: lint does not make .lint-corrected files promotable automatically
+## Reproduction: dune does not make .lint-corrected files promotable automatically
 
 The executable `utils/add_copyright.ml` will add a small copyright at the beginning of the file if it is not already there
 
